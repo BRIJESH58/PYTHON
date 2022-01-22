@@ -1,0 +1,5 @@
+FRUITS = ['BANANA', 'ORANGE', 'MANGO', 'LEMON', 'APPLE', 'BANANA']
+FRUITS.remove('BANANA')
+print(FRUITS)
+FRUITS.remove('LEMON')
+print(FRUITS)

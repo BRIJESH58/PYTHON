@@ -1,0 +1,4 @@
+MASS = 75
+GRAVITY = 9.81
+WEIGHT = MASS * GRAVITY
+print(WEIGHT, 'N')

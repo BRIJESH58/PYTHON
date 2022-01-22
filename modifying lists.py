@@ -1,0 +1,8 @@
+FRUITS = ['BANANA', 'ORANGE', 'MANGO', 'LEMON']
+FRUITS[0] = 'AVOCADO'
+print(FRUITS)
+FRUITS[1] = 'APPLE'
+print(FRUITS)
+LAST_INDEX = len(FRUITS)-1
+fruits[LAST_INDEX] = 'LIME'
+print(FRUITS)

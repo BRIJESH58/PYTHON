@@ -1,0 +1,8 @@
+COUNTRIES = ['GERMANY', 'FRANCE', 'BELGIUM', 'SWEDEN', 'DENMARK', 'FINLAND', 'NORWAY', 'ICELAND', 'ESTONIA']
+GR, FR, BG, SW, *SCANDIC, ES = COUNTRIES
+print(GR)
+print(FR)
+print(BG)
+print(SW)
+print(SCANDIC)
+print(ES)

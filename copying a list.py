@@ -1,0 +1,4 @@
+FRUITS = ['BANANA', 'ORANGE', 'MANGO', 'LEMON']
+print(FRUITS)
+FRUITS_COPY = FRUITS.copy()
+print(FRUITS_COPY)

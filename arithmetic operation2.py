@@ -1,0 +1,16 @@
+A = 3
+B = 2
+TOTAL = A + B
+DIFFERENCE = A - B
+PRODUCT = A * B
+DIVISON = A / B
+REMINDER = A % B
+FLOOR_DIVISON = A // B
+EXPONENTIAL = A ** B
+print('A + B = ' ,TOTAL)
+print('A - B = ' ,DIFFERENCE)
+print('A * B = ' ,PRODUCT)
+print('A / B = ' ,DIVISON)
+print('A % B = ' ,REMINDER)
+print('A // B = ' ,FLOOR_DIVISON)
+print('A ** B = ' ,EXPONENTIAL)

@@ -1,0 +1,8 @@
+CHALLENEGE = '30DAYSOFPYTHON'
+print(CHALLENEGE.isidentifier())
+
+CHALLENGE = 'THIRTY DAYS OF PYTHON'
+print(CHALLENGE.isidentifier())
+
+CHALLENGE = 'THIRTY_DAYS_OF_PYTHON'
+print(CHALLENGE.isidentifier())

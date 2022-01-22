@@ -1,0 +1,3 @@
+WEB_TECH = ['HTML', 'CSS', 'JAVASCRIPT', 'REACT']
+RESULT = '#, '.join(WEB_TECH)
+print(RESULT)

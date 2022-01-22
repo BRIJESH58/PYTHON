@@ -1,0 +1,3 @@
+LANGUAGE = 'PYTHON'
+PTO = LANGUAGE[0:6:2]
+print(PTO)

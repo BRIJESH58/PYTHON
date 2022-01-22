@@ -1,0 +1,6 @@
+LIST = ['ITEM1', 'ITEM2', 'ITEM3', 'ITEM4', 'ITEM5']
+FIRST_ITEM, SECOND_ITEM, THIRD_ITEM, *rest = LIST
+print(FIRST_ITEM)
+print(SECOND_ITEM)
+print(THIRD_ITEM)
+print(rest)
