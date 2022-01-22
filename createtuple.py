@@ -1,6 +1,0 @@
-TUPLE1 = (1, 2, 3, 4, 5)
-TUPLE2 = ('A', 'B', 'C')
-TUPLE3 = ("HELLO", "WORLD")
-print(TUPLE1)
-print(TUPLE2)
-print(TUPLE3)
