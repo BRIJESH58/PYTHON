@@ -1,0 +1,2 @@
+FRUITS = ('BANANA', 'ORANGE', 'MANGO', 'LEMON')
+del FRUITS

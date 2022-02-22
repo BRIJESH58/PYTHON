@@ -1,0 +1,6 @@
+FRUITS = ('BANANA', 'ORANGE', 'MANGO', 'LEMON')
+FRUITS = list(FRUITS)
+FRUITS[0] = 'APPLE'
+print(FRUITS)
+FRUITS = tuple(FRUITS)
+print(FRUITS)

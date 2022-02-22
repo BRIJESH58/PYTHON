@@ -1,0 +1,3 @@
+LANGUAGE = 'PYTHON'
+for LETTER in LANGUAGE:
+    print(LETTER)
