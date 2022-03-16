@@ -1,0 +1,5 @@
+def ADD_TWO_NUMBERS(NUM_TWO):
+    NUM_ONE = 2
+    TOTAL = NUM_ONE + NUM_TWO
+    print(TOTAL)
+ADD_TWO_NUMBERS(5)
