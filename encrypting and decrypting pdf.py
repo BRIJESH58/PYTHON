@@ -21,8 +21,8 @@ user_pwd = "SUPERSECRET"
 owner_pwd = "REALLYSUPERSECRET"
 pdf_writer.encrypt(user_pwd=user_pwd, owner_pwd=owner_pwd)
 
-from pathlib import Path  # noqa
-from PyPDF2 import PdfFileReader, PdfFileWriter  # noqa
+from pathlib import Path  
+from PyPDF2 import PdfFileReader, PdfFileWriter  
 
 pdf_path = Path.cwd() / "EXAMPLE_PROTECTED.pdf"
 
